@@ -3,4 +3,5 @@ public class ArithmeticsAdd implements IArithmeticsAdd{
     public double Addition(double A, double B) {
         return A+B;
     }
+    // tomek2
 }
