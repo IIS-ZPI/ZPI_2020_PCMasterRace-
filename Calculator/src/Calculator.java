@@ -6,6 +6,11 @@ public class Calculator {
         System.out.println("Mateusz Rosiak/215866 - Tester");
         System.out.println("Thomson19");
         System.out.println("krzysiek1105");
+        /*
+
+        nowy feature do zadania 6
+
+         */
     }
 
 }
