@@ -1,3 +1,3 @@
-public interface IArithmeticsAdd {
+public interface IArithmeticsAdd {//mateuszL3
     double Addition(double A, double B);
 }
