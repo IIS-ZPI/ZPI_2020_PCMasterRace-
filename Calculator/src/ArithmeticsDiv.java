@@ -6,3 +6,4 @@ public class ArithmeticsDiv implements IArithmeticsDiv {  // krzysiek1
         return A / B;
     }
 }
+// KOMENTARZ DO USUNIECIA KRZYSIEK
