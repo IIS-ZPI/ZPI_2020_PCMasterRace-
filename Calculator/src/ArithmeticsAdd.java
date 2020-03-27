@@ -4,5 +4,4 @@ public class ArithmeticsAdd implements IArithmeticsAdd{//mateuszL1
         return A+B;
     }
     // tomek2
-    // zadanie 6 tomek
 }
